@@ -9,7 +9,7 @@ These patterns deal with **object creation mechanisms**, trying to create object
     * *Description:* Defines an interface for creating an object, but lets subclasses decide which class to instantiate.
 * **[Prototype](https://example.com/prototype-link)**
     * *Description:* Creates new objects by copying an existing object (the prototype).
-* **[Singleton](https://example.com/singleton-link)**
+* **[Singleton](https://github.com/kamronbekrustamov/DesignPatterns/blob/main/Singleton.md)**
     * *Description:* Ensures a class has only one instance and provides a global point of access to it.
 
 ---
