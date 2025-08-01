@@ -17,19 +17,19 @@ These patterns deal with **object creation mechanisms**, trying to create object
 ## Structural Patterns
 These patterns deal with the **composition of classes and objects**.
 
-* **[Adapter](https://example.com/adapter-link)**
+* **[Adapter](https://github.com/kamronbekrustamov/DesignPatterns/blob/main/Adapter.md)**
     * *Description:* Allows objects with incompatible interfaces to collaborate.
-* **[Bridge](https://example.com/bridge-link)**
+* **[Bridge](https://github.com/kamronbekrustamov/DesignPatterns/blob/main/Bridge.md)**
     * *Description:* Decouples an abstraction from its implementation so that the two can vary independently.
-* **[Composite](https://example.com/composite-link)**
+* **[Composite](https://github.com/kamronbekrustamov/DesignPatterns/blob/main/Composite.md)**
     * *Description:* Composes objects into tree structures to represent part-whole hierarchies.
-* **[Decorator](https://example.com/decorator-link)**
+* **[Decorator](https://github.com/kamronbekrustamov/DesignPatterns/blob/main/Decorator.md)**
     * *Description:* Attaches new responsibilities to objects dynamically.
-* **[Facade](https://example.com/facade-link)**
+* **[Facade](https://github.com/kamronbekrustamov/DesignPatterns/blob/main/Facade.md)**
     * *Description:* Provides a simplified interface to a complex subsystem.
-* **[Flyweight](https://example.com/flyweight-link)**
+* **[Flyweight](https://github.com/kamronbekrustamov/DesignPatterns/blob/main/Flyweight.md)**
     * *Description:* Reduces memory usage by sharing as much data as possible with similar objects.
-* **[Proxy](https://example.com/proxy-link)**
+* **[Proxy](https://github.com/kamronbekrustamov/DesignPatterns/blob/main/Proxy.md)**
     * *Description:* Provides a surrogate or placeholder for another object to control access to it.
 
 ---
@@ -37,23 +37,23 @@ These patterns deal with the **composition of classes and objects**.
 ## Behavioral Patterns
 These patterns are concerned with **algorithms and the assignment of responsibilities between objects**.
 
-* **[Chain of Responsibility](https://example.com/chain-of-responsibility-link)**
+* **[Chain of Responsibility](https://github.com/kamronbekrustamov/DesignPatterns/blob/main/ChainOfResponsibility.md)**
     * *Description:* Passes requests along a chain of handlers; each handler decides whether to process or pass the request.
-* **[Command](https://example.com/command-link)**
+* **[Command](https://github.com/kamronbekrustamov/DesignPatterns/blob/main/Command.md)**
     * *Description:* Encapsulates a request as an object, allowing parameterization of clients with different requests, queuing or logging of requests, and support for undoable operations.
-* **[Iterator](https://example.com/iterator-link)**
+* **[Iterator](https://github.com/kamronbekrustamov/DesignPatterns/blob/main/Iterator.md)**
     * *Description:* Provides a way to access the elements of an aggregate object sequentially without exposing its underlying representation.
-* **[Mediator](https://example.com/mediator-link)**
+* **[Mediator](https://github.com/kamronbekrustamov/DesignPatterns/blob/main/Mediator.md)**
     * *Description:* Defines an object that encapsulates how a set of objects interact, promoting loose coupling.
-* **[Memento](https://example.com/memento-link)**
+* **[Memento](https://github.com/kamronbekrustamov/DesignPatterns/blob/main/Memento.md)**
     * *Description:* Captures and externalizes an object's internal state without violating encapsulation, so that the object can be restored to this state later.
-* **[Observer](https://example.com/observer-link)**
+* **[Observer](https://github.com/kamronbekrustamov/DesignPatterns/blob/main/Observer.md)**
     * *Description:* Defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified.
-* **[State](https://example.com/state-link)**
+* **[State](https://github.com/kamronbekrustamov/DesignPatterns/blob/main/State.md)**
     * *Description:* Allows an object to alter its behavior when its internal state changes, appearing to change its class.
-* **[Strategy](https://example.com/strategy-link)**
+* **[Strategy](https://github.com/kamronbekrustamov/DesignPatterns/blob/main/Strategy.md)**
     * *Description:* Defines a family of algorithms, encapsulates each one, and makes them interchangeable.
-* **[Template Method](https://example.com/template-method-link)**
+* **[Template Method](https://github.com/kamronbekrustamov/DesignPatterns/blob/main/Template.md)**
     * *Description:* Defines the skeleton of an algorithm in an operation, deferring some steps to subclasses.
-* **[Visitor](https://example.com/visitor-link)**
+* **[Visitor](https://github.com/kamronbekrustamov/DesignPatterns/blob/main/Visitor.md)**
     * *Description:* Represents an operation to be performed on the elements of an object structure.
