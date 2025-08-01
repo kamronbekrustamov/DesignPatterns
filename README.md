@@ -5,7 +5,7 @@ These patterns deal with **object creation mechanisms**, trying to create object
     * *Description:* Provides an interface for creating families of related or dependent objects without specifying their concrete classes.
 * **[Builder](https://github.com/kamronbekrustamov/DesignPatterns/blob/main/Builder.md)**
     * *Description:* Separates the construction of a complex object from its representation, allowing the same construction process to create different representations.
-* **[Factory Method]([https://example.com/factory-method-link](https://github.com/kamronbekrustamov/DesignPatterns/blob/main/Factory.md))**
+* **[Factory Method](https://github.com/kamronbekrustamov/DesignPatterns/blob/main/Factory.md)**
     * *Description:* Defines an interface for creating an object, but lets subclasses decide which class to instantiate.
 * **[Prototype](https://github.com/kamronbekrustamov/DesignPatterns/blob/main/Prototype.md)**
     * *Description:* Creates new objects by copying an existing object (the prototype).
